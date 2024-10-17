@@ -1,4 +1,4 @@
-#自定义直辖规则
+#全球直连自定义直辖规则
 
 ##- PROCESS-NAME,curl,DIRECT #匹配路由自身进程(curl直连)
 ##- DOMAIN-SUFFIX,google.com,Proxy #匹配域名后缀(交由Proxy代理服务器组)
@@ -17,3 +17,4 @@ IP-CIDR,18.179.82.231/32
 DOMAIN-SUFFIX,xb6v.com
 DOMAIN-SUFFIX,btwuji.com
 DOMAIN-SUFFIX,dytt8.com
+DOMAIN-SUFFIX,ymj2211.xyz
