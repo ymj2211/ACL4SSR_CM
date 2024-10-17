@@ -10,13 +10,13 @@
 ##- SRC-PORT,7777,DIRECT #匹配数据源端口(直连)
 
 #自定义代理网址
- DOMAIN-SUFFIX,hklive.tv
- DOMAIN-SUFFIX,hkdtmb.com
- DOMAIN-SUFFIX,hkanime.com
- DOMAIN-SUFFIX,hkdvb.com
- DOMAIN-SUFFIX,emby.wtf
- DOMAIN-SUFFIX,plex.tv
- DOMAIN-SUFFIX,live.tvfix.org
- DOMAIN-SUFFIX,ip.sb
- DOMAIN-SUFFIX,ipify.org
+# LIVEHKDTMB
+DOMAIN-SUFFIX,hklive.tv
+DOMAIN-SUFFIX,hkdtmb.com
+DOMAIN-SUFFIX,hkanime.com
+DOMAIN-SUFFIX,hkdvb.com
+DOMAIN-SUFFIX,emby.wtf
+DOMAIN-SUFFIX,plex.tv
+
+
 
