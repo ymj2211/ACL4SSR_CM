@@ -12,6 +12,3 @@
 #自定义代理网址
 # LIVEHKDTMB
 DOMAIN-SUFFIX,emby.wtf
-DOMAIN,cloudflare.com
-
-
