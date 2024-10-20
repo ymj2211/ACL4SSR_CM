@@ -12,8 +12,6 @@
 #自定义代理网址
 # LIVEHKDTMB
 DOMAIN-SUFFIX,emby.wtf
-DOMAIN-SUFFIX,plex.tv
-DOMAIN-SUFFIX,cloudflare.com
 
 
 
