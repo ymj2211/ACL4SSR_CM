@@ -14,3 +14,6 @@
 DOMAIN-SUFFIX,plex.tv
 DOMAIN-SUFFIX,ipify.org
 DOMAIN-SUFFIX,ip.sb
+DOMAIN-SUFFIX,cloudflare-dns.com
+DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,raw.githubusercontent.com
