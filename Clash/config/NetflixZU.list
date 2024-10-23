@@ -11,7 +11,7 @@
 
 #自定义代理网址
 # LIVEHKDTMB
-DOMAIN-SUFFIX,hklive.tv
-DOMAIN-SUFFIX,hkdtmb.com
-DOMAIN-SUFFIX,hkanime.com
-DOMAIN-SUFFIX,hkdvb.com
+#DOMAIN-SUFFIX,hklive.tv
+#DOMAIN-SUFFIX,hkdtmb.com
+#DOMAIN-SUFFIX,hkanime.com
+#DOMAIN-SUFFIX,hkdvb.com
