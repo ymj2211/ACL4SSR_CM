@@ -11,8 +11,8 @@
 
 #自定义代理网址
 # LIVEHKDTMB
-DOMAIN-SUFFIX,emby.wtf
 DOMAIN-SUFFIX,plex.tv
+DOMAIN-SUFFIX,emby.wtf
 DOMAIN-SUFFIX,steamcommunity.com
 DOMAIN-SUFFIX,ipify.org
 DOMAIN-SUFFIX,ip.sb
