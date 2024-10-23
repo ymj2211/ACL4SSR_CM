@@ -20,7 +20,7 @@ DOMAIN-SUFFIX,xb6v.com
 DOMAIN-SUFFIX,btwuji.com
 DOMAIN-SUFFIX,dytt8.com
 DOMAIN,time.windows.com
-##DOMAIN-SUFFIX,hklive.tv
-##DOMAIN-SUFFIX,hkdtmb.com
-##DOMAIN-SUFFIX,hkanime.com
-##DOMAIN-SUFFIX,hkdvb.com
+DOMAIN-SUFFIX,hklive.tv
+DOMAIN-SUFFIX,hkdtmb.com
+DOMAIN-SUFFIX,hkanime.com
+DOMAIN-SUFFIX,hkdvb.com
