@@ -15,9 +15,9 @@ IP-CIDR,139.162.57.189/32,no-resolve
 DOMAIN-SUFFIX,plex.tv
 DOMAIN-SUFFIX,plex.bz
 DOMAIN-SUFFIX,emby.wtf
-DOMAIN-SUFFIX,steamcommunity.com
 DOMAIN-SUFFIX,ipify.org
 DOMAIN-SUFFIX,ip.sb
+DOMAIN-SUFFIX,steamcommunity.com
 DOMAIN-SUFFIX,cloudflare-dns.com
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,raw.githubusercontent.com
@@ -25,6 +25,6 @@ DOMAIN-SUFFIX,ipleak.net
 DOMAIN-SUFFIX,missav.com
 DOMAIN-SUFFIX,rexxx.com
 DOMAIN-SUFFIX,avple.tv
+DOMAIN-SUFFIX,ipaddress.com
 DOMAIN-SUFFIX,yeslivetv.com
 DOMAIN-SUFFIX,shields.io
-DOMAIN-SUFFIX,ipaddress.com
