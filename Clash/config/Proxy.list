@@ -11,7 +11,7 @@
 
 #自定义代理网址
 # LIVEHKDTMB
-##IP-CIDR,139.162.57.189,,no-resolve
+##IP-CIDR,139.162.57.189/32,no-resolve
 DOMAIN-SUFFIX,plex.tv
 DOMAIN-SUFFIX,plex.bz
 DOMAIN-SUFFIX,emby.wtf
