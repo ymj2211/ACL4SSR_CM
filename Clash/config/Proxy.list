@@ -13,8 +13,6 @@
 # LIVEHKDTMB
 IP-CIDR,139.162.57.189/32,no-resolve
 IP-CIDR,172.104.173.210/32,no-resolve
-IP-CIDR,104.26.13.205/32,no-resolve
-IP-CIDR,104.26.13.31/32,no-resolve
 DOMAIN-KEYWORD,stream-link
 DOMAIN-SUFFIX,plex.tv
 DOMAIN-SUFFIX,plex.bz
