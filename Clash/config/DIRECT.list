@@ -13,7 +13,6 @@
 ##SRC-IP-CIDR,192.168.1.8/32
 
 # 直连网地址
-IP-CIDR,18.179.82.231/32,no-resolve
 IP-CIDR,129.150.43.205/32,no-resolve
 DOMAIN-SUFFIX,ymj2211.xyz
 ##DOMAIN-SUFFIX,hklive.tv
