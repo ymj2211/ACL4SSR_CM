@@ -51,4 +51,7 @@ DOMAIN-SUFFIX,amagi.tv
 DOMAIN-SUFFIX,frequency.stream
 DOMAIN-SUFFIX,vaicore.xyz
 DOMAIN-SUFFIX,wurl.tv
+IP-CIDR,142.251.215.0/24,no-resolve
+IP-CIDR,142.251.33.0/24,no-resolve
+IP-CIDR,142.250.217.0/24,no-resolve
 # # # # # # # # # # # # # 
