@@ -13,6 +13,7 @@
 # LIVEHKDTMB
 IP-CIDR,139.162.57.189/32,no-resolve
 IP-CIDR,172.104.173.210/32,no-resolve
+IP-CIDR,185.199.111.133/32,no-resolve
 DOMAIN-KEYWORD,stream-link
 DOMAIN-SUFFIX,plex.tv
 DOMAIN-SUFFIX,plex.bz
@@ -58,3 +59,5 @@ IP-CIDR,142.250.217.0/24,no-resolve
 DOMAIN-SUFFIX,exp-tas.com
 DOMAIN-SUFFIX,lencr.org
 DOMAIN-SUFFIX,highcharts.com
+DOMAIN-SUFFIX,hostbuf.com
+DOMAIN-SUFFIX,stadiamaps.com
