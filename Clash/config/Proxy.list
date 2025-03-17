@@ -55,6 +55,17 @@ DOMAIN-SUFFIX,wurl.tv
 IP-CIDR,142.251.215.0/24,no-resolve
 IP-CIDR,142.251.33.0/24,no-resolve
 IP-CIDR,142.250.217.0/24,no-resolve
+DOMAIN-SUFFIX,fikfap.com
+DOMAIN-SUFFIX,camping.com
+DOMAIN-SUFFIX,lpu.in
+DOMAIN-SUFFIX,alpinegroup.com
+DOMAIN-SUFFIX,podcastapp.io
+DOMAIN-SUFFIX,space-hosting.net
+DOMAIN-SUFFIX,newarc.ai
+DOMAIN-SUFFIX,tuinmaximaal.de
+DOMAIN-SUFFIX,advlinks.com
+DOMAIN-SUFFIX,kubopro.com
+IP-CIDR,104.26.13.205/32,no-resolve
 # # # # # # # # # # # # # 
 DOMAIN-SUFFIX,exp-tas.com
 DOMAIN-SUFFIX,lencr.org
