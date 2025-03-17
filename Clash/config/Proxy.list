@@ -38,3 +38,8 @@ DOMAIN-SUFFIX,bugscaner.com
 DOMAIN-SUFFIX,tas.com
 DOMAIN-SUFFIX,ksord.com
 DOMAIN-SUFFIX,ezodn.com
+#GoogleTV自定义
+DOMAIN-SUFFIX,doubleclick.net
+DOMAIN-SUFFIX,googlesyndication.com
+DOMAIN-SUFFIX,statsig.com
+DOMAIN-SUFFIX,nbcuni.com
