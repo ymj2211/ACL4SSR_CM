@@ -38,6 +38,11 @@ DOMAIN-SUFFIX,bugscaner.com
 DOMAIN-SUFFIX,tas.com
 DOMAIN-SUFFIX,ksord.com
 DOMAIN-SUFFIX,ezodn.com
+DOMAIN-SUFFIX,hkdvb.com
+DOMAIN-SUFFIX,hklive.tv
+DOMAIN-SUFFIX,hkdtmb.com
+DOMAIN-SUFFIX,hkanime.com
+DOMAIN-SUFFIX,tvfree.sbs
 ##########GoogleTV自定义#################
 DOMAIN-SUFFIX,doubleclick.net
 DOMAIN-SUFFIX,googlesyndication.com
