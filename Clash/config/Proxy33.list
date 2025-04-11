@@ -68,7 +68,6 @@ DOMAIN-SUFFIX,newarc.ai
 DOMAIN-SUFFIX,tuinmaximaal.de
 DOMAIN-SUFFIX,advlinks.com
 DOMAIN-SUFFIX,kubopro.com
-IP-CIDR,104.26.13.205/32,no-resolve
 # # # # # # # # # # # # # 
 DOMAIN-SUFFIX,exp-tas.com
 DOMAIN-SUFFIX,lencr.org
