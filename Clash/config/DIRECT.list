@@ -14,7 +14,7 @@
 
 # 直连网地址
 IP-CIDR,129.150.43.205/32,no-resolve
-DOMAIN-SUFFIX,ymj2211.xyz
+DOMAIN-SUFFIX,ymj2211.dpdns.org
 DOMAIN-SUFFIX,internetprotocoltelevision.top
 DOMAIN-SUFFIX,cmdns.xyz
 ##DOMAIN-SUFFIX,hklive.tv
